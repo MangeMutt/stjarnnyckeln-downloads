@@ -1,11 +1,13 @@
 # Stjärnnyckeln – Android
 
-[Ladda ner Stjärnnyckeln 1.2.0 direkt](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Stjarnnyckeln-1.2.0.apk)
+[Ladda ner Stjärnnyckeln 1.4.0 direkt](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Stjarnnyckeln-1.4.0.apk)
 
 Öppna länken på Android-telefonen och godkänn nedladdningen om webbläsaren frågar. Öppna sedan APK-filen och välj Installera eller Uppdatera. Behåll befintlig app installerad för att spara framstegen.
 
-42 banor i sex paket. Fungerar offline. Android 11 eller senare.
+42 bilder, föremålsläge och pusselläge med 16, 32 eller 64 bitar. Fungerar offline. Android 11 eller senare.
 
-Detta projekt innehåller endast den färdiga installationsfilen. Källkoden hanteras separat.
+Version 1.4.0 SHA-256: `EC8292095318825E0C026EF82BB4EAA6B51A18C007142E83D52F54462791EF4C`
 
-SHA-256: `5F7A0A5415BEE7C63378408B18838DF00380016D41B24B46774EF75B43E6D58A`
+[Äldre version 1.2.0](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Stjarnnyckeln-1.2.0.apk)
+
+Detta projekt innehåller endast färdiga installationsfiler. Källkoden hanteras separat.
