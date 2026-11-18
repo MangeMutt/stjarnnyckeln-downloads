@@ -1,5 +1,23 @@
 # Glimmerpiece – Android
 
+## Fullversion för familjetest
+
+[Ladda ner 1.7.0 Full test](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Glimmerpiece-1.7.0-fulltest.apk)
+
+Alla 42 banor, 42 pusselbilder och 42 målarbilder ingår utan köp.
+Äventyrets temapaket öppnas fortfarande med medaljer. Pussel och målning har alla bilder direkt.
+VersionCode 11, versionName 1.7.0-fulltest. Samma signatur som tidigare.
+Installera som uppdatering utan att avinstallera för att behålla sparningar.
+Vanlig återgång till demo 1.7.0 (versionCode 10) är en nedgradering och stöds inte.
+95 automatiska tester, Android lint, signatur och 96 paketerade resurser kontrollerade.
+Test på fysisk Android-enhet återstår. Denna fil är offentlig för alla som har länken.
+
+SHA-256: `53DA755C7E6326B5076C00C74A90E11E90E985DA0AFBE15CF87F7701EC1CF80F`
+
+![QR för fullversionstest](Glimmerpiece-1.7.0-fulltest-QR.png)
+
+## Gratis demo
+
 [Ladda ner Glimmerpiece 1.7.0 demo direkt](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Glimmerpiece-1.7.0.apk)
 
 Gratis spelbar demo: tre banor, tre pusselbilder (16/32/64 bitar) och tre målarbilder.
