@@ -1,13 +1,21 @@
-# Stjärnnyckeln – Android
+# Glimmerpiece – Android
 
-[Ladda ner Stjärnnyckeln 1.4.0 direkt](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Stjarnnyckeln-1.4.0.apk)
+[Ladda ner Glimmerpiece 1.5.0 direkt](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Glimmerpiece-1.5.0.apk)
 
-Öppna länken på Android-telefonen och godkänn nedladdningen om webbläsaren frågar. Öppna sedan APK-filen och välj Installera eller Uppdatera. Behåll befintlig app installerad för att spara framstegen.
+Tidigare namn: Stjärnnyckeln. Öppna länken på Android-telefonen, öppna APK-filen och välj Installera eller Uppdatera. Behåll den befintliga appen installerad för att spara framstegen.
 
-42 bilder, föremålsläge och pusselläge med 16, 32 eller 64 bitar. Fungerar offline. Android 11 eller senare.
+## Nytt i 1.5.0
 
-Version 1.4.0 SHA-256: `EC8292095318825E0C026EF82BB4EAA6B51A18C007142E83D52F54462791EF4C`
+- Större illustration och knappar i listform i huvudmenyn, med nya ikoner och rundare knapptext.
+- Klassiska pusselbitar med rundade knoppar för 16, 32 och 64 bitar.
+- Coloring-knapp med Coming Soon. Färgläggningsläget kommer senare.
 
-[Äldre version 1.2.0](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Stjarnnyckeln-1.2.0.apk)
+42 bilder, föremålsläge och pusselläge. Fungerar offline. Android 11 eller senare.
 
-Detta projekt innehåller endast färdiga installationsfiler. Källkoden hanteras separat.
+![Skanna för att ladda ner APK-filen](Glimmerpiece-1.5.0-QR.png)
+
+SHA-256: `3E38C1AF48191B318A6D916238B84F6395C420FD8619640E413E5CEB74DAA4A2`
+
+[Äldre version 1.4.0](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Stjarnnyckeln-1.4.0.apk) · [Äldre version 1.2.0](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Stjarnnyckeln-1.2.0.apk)
+
+Detta projekt innehåller färdiga installationsfiler och QR-koder. Källkoden hanteras separat.
