@@ -1,21 +1,25 @@
 # Glimmerpiece – Android
 
-[Ladda ner Glimmerpiece 1.5.0 direkt](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Glimmerpiece-1.5.0.apk)
+[Ladda ner Glimmerpiece 1.6.0 direkt](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Glimmerpiece-1.6.0.apk)
 
-Tidigare namn: Stjärnnyckeln. Öppna länken på Android-telefonen, öppna APK-filen och välj Installera eller Uppdatera. Behåll den befintliga appen installerad för att spara framstegen.
+Öppna länken på Android-telefonen, öppna APK-filen och välj Installera eller Uppdatera. Behåll den befintliga appen installerad för att bevara framstegen.
 
-## Nytt i 1.5.0
+## Nytt i 1.6.0
 
-- Större illustration och knappar i listform i huvudmenyn, med nya ikoner och rundare knapptext.
-- Klassiska pusselbitar med rundade knoppar för 16, 32 och 64 bitar.
-- Coloring-knapp med Coming Soon. Färgläggningsläget kommer senare.
+- Färglägg 42 bilder med pensel och färghink. Målningarna sparas lokalt.
+- Förbättrade konturer, inklusive mattor och möbelben.
+- Tydligare paketöversikt och upplåsning i menyn och resultatrutan.
+- Ny Glimmerpiece-logga utan punkt och tydligare hjälpförstoringsglas.
+- Target och compile SDK 36 (Android 16). Minst Android 11 krävs, som tidigare.
 
-42 bilder, föremålsläge och pusselläge. Fungerar offline. Android 11 eller senare.
+VersionCode 9. Signerad med samma certifikat som 1.5.0. Fungerar offline.
+84 automatiska tester och kontroll av 91 paketerade resurser passerar.
+Android-enhetstest återstår.
 
-![Skanna för att ladda ner APK-filen](Glimmerpiece-1.5.0-QR.png)
+SHA-256: `76061413C882ABB9C61D01D7A8D97F4B8859AE00C8F93E84D5FB06CF8A6012C2`
 
-SHA-256: `3E38C1AF48191B318A6D916238B84F6395C420FD8619640E413E5CEB74DAA4A2`
+## Tidigare versioner
 
-[Äldre version 1.4.0](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Stjarnnyckeln-1.4.0.apk) · [Äldre version 1.2.0](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Stjarnnyckeln-1.2.0.apk)
+[1.5.0](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Glimmerpiece-1.5.0.apk) · [1.4.0](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Stjarnnyckeln-1.4.0.apk) · [1.2.0](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Stjarnnyckeln-1.2.0.apk)
 
-Detta projekt innehåller färdiga installationsfiler och QR-koder. Källkoden hanteras separat.
+Tidigare namn: Stjärnnyckeln. Detta repo innehåller installationsfiler. Källkoden hanteras separat.
