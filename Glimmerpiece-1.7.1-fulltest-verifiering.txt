@@ -1,0 +1,20 @@
+Glimmerpiece 1.7.1 Full test – verifiering 19 november 2026
+VersionName: 1.7.1-fulltest. VersionCode: 13. Paket: se.stjarnnyckeln.game.
+Min SDK 30 (Android 11), target/compile SDK 36 (Android 16).
+Signerad med befintlig distributionsnyckel, samma certifikat som 1.7.0.
+Certifikat SHA256: 56d8dfcd8b1a11ca216f0f602861c8e00f29f14e1c7d427261e065e589ae11f9
+95 automatiska tester godkända. Java-kompilering och Android lint godkända.
+97 inbyggda resurser matchar fulltest-underlaget byte för byte.
+APK-signatur och ZIP-alignment verifierade. Appen är inte debuggable.
+Alla 42 bilder tillgängliga, inga köp eller köprättigheter skapas.
+Äventyrets medaljkrav finns kvar. Inga sparnycklar har ändrats.
+Nytt: automatisk helskärm och skärmanpassning, borttagen hjälptext,
+samt Sudda all färg med bekräftelse och Ångra.
+Webbkontroller från utvecklingen: liten telefon stående/liggande och surfplatta,
+placering, pusselbläddring, avbryt/rensa/ångra i målarläget.
+Fysisk Android-enhet och installation som uppdatering är inte provade här.
+APK: 47 104 717 byte.
+SHA256: ed39531da2d102f8405f15cf3802900cc1c5548768c7c654c26424d33663b05c
+Direktlänk: https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Glimmerpiece-1.7.1-fulltest.apk
+QR-koder avkodade i originalstorlek och telefonstorlek.
+Nästa versionCode behöver vara minst 14.

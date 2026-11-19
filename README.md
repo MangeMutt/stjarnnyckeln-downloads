@@ -1,5 +1,31 @@
 # Glimmerpiece – Android
 
+## Senaste fullversionen för familjetest: 1.7.1
+
+[Ladda ner Glimmerpiece 1.7.1 Full test direkt](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Glimmerpiece-1.7.1-fulltest.apk)
+
+Alla 42 banor, 42 pusselbilder och 42 målarbilder ingår utan köp.
+Äventyrets temapaket öppnas fortfarande med medaljer.
+
+### Nytt i 1.7.1
+
+- Automatisk helskärm; den manuella fullskärmsknappen är borttagen.
+- Bättre anpassning till olika skärmar i alla tre spellägen.
+- Hjälptexten under äventyrsbilden är borttagen på samtliga språk.
+- Tydlig, avskild knapp för att sudda all färg, med bekräftelse och Ångra.
+- Rättad överlappning mellan pusselbitar och sidknappar på korta skärmar.
+
+Installera som **uppdatering**. Avinstallera inte den gamla appen om du vill behålla sparningarna.
+Samma appidentitet och signatur som tidigare. VersionName 1.7.1-fulltest, versionCode 13.
+Android 11 eller senare. Target SDK 36. Filstorlek 47 104 717 byte (cirka 47 MB).
+95 automatiska tester, Android-kompilering/lint, signatur och 97 paketerade resurser kontrollerade.
+Fysisk Android-enhetsprovning återstår. APK-filen är offentlig för alla som får länken.
+
+SHA-256: `ED39531DA2D102F8405F15CF3802900CC1C5548768C7C654C26424D33663B05C`
+
+![QR för fullversionen 1.7.1](Glimmerpiece-1.7.1-fulltest-QR-dela.png)
+
+
 ## Fullversion för familjetest
 
 [Ladda ner 1.7.0 Full test](https://raw.githubusercontent.com/MangeMutt/stjarnnyckeln-downloads/main/Glimmerpiece-1.7.0-fulltest.apk)
